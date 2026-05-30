@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gestion_sitas_medicas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89c1dda803abfd6c3e6a26cdee7fd47a6898484a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9aa0dd9fca3d67a7073d9e5d801e51888e7cb61c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gestion_sitas_medicas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gestion_sitas_medicas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
